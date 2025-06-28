@@ -40,3 +40,6 @@ AgeGroup = SWITCH(
     cust_detail[Customer_Age] >= 60, "60+",
     "unknown"
 )
+```
+
+##
