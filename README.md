@@ -104,7 +104,7 @@ DIVIDE([Currrent_Week_Revenue] - [Previous_Week_Revenue], [Previous_Week_Revenue
  - Revenue by Customer Job
  - Filters: Gender, Card Type, Income Group, Quarter, Week
 
- Screenshot: 
+ Screenshot: ![Dashboard Preview](CC Customer.jpg)
 
 ---
 
