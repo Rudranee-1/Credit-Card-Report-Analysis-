@@ -104,7 +104,7 @@ DIVIDE([Currrent_Week_Revenue] - [Previous_Week_Revenue], [Previous_Week_Revenue
  - Revenue by Customer Job
  - Filters: Gender, Card Type, Income Group, Quarter, Week
 
- Screenshot: ![Credit Card Customer Dashboard Preview](CC Customer.jpg)
+ Screenshot: ![Dashboard Preview](https://github.com/Rudranee-1/Credit-Card-Report-Analysis-/blob/main/CC%20Customer.jpg)
 
 ---
 
