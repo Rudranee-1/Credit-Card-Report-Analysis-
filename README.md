@@ -88,7 +88,7 @@ DIVIDE([Currrent_Week_Revenue] - [Previous_Week_Revenue], [Previous_Week_Revenue
  - Week-on-Week trend line
  - Filters: Gender, Income Group, Card Type, Quarter
 
- Screenshot: 
+ Screenshot: ![Dashboard](https://github.com/Rudranee-1/Credit-Card-Report-Analysis-/blob/main/CC%20Transaction.jpg)
 
  2. Credit Card Customer Dashboard
  KPIs:
